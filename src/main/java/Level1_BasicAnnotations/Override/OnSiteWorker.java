@@ -2,22 +2,22 @@ package Level1_BasicAnnotations.Override;
 
 public class OnSiteWorker extends Worker {
 
-    private static double benzina;
+    private static double gas;
 
     public OnSiteWorker(String name, String surname, double salaryPerHour) {
         super(name, surname, salaryPerHour);
     }
 
-    public static double getBenzina() {
-        return benzina;
+    public static double getGas() {
+        return gas;
     }
 
-    public static void setBenzina(double benzina) {
-        OnSiteWorker.benzina = benzina;
+    public static void setGas(double gas) {
+        OnSiteWorker.gas = gas;
     }
 
     @Override
     public double calculateSalary(double workedHours) {
-        return super.calculateSalary(workedHours) + benzina;
+        return super.calculateSalary(workedHours) + gas;
     }
 }
