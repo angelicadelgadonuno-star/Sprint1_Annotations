@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adecc336-b3df-4d6a-aa20-802aed3ec77c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Level1_BasicAnnotations/Override/WorkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Level1_BasicAnnotations/Override/OnSiteWorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,61 +26,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000005976417" />
-      <entry key="MS500" value="1.0142984245019988" />
-      <entry key="S2" value="1.3457976572527413" />
-      <entry key="S5" value="1.6539265242832506" />
-      <entry key="S10" value="1.8091245916406777" />
-      <entry key="S30" value="2.0683444084667832" />
-      <entry key="S60" value="2.858691396688192" />
-      <entry key="M2" value="5.197767675223315" />
-      <entry key="M5" value="12.709383694379182" />
-      <entry key="M10" value="21.459846420186587" />
-      <entry key="M15" value="28.114195448870976" />
-      <entry key="M30" value="50.751184089429564" />
-      <entry key="H1" value="103.46439008259983" />
-      <entry key="H2" value="176.60718661226207" />
-      <entry key="H4" value="241.38129559475772" />
-      <entry key="D1" value="319.7794342958776" />
-      <entry key="W1" value="336.1710848635015" />
+      <entry key="MS100" value="4.9725526854095815E-28" />
+      <entry key="MS500" value="3.4619108402906803E-6" />
+      <entry key="S2" value="0.04313561252669348" />
+      <entry key="S5" value="0.28784363428991294" />
+      <entry key="S10" value="0.5919670753924053" />
+      <entry key="S30" value="1.2436806495959147" />
+      <entry key="S60" value="2.160013472423538" />
+      <entry key="M2" value="4.451122973772566" />
+      <entry key="M5" value="8.73256843191699" />
+      <entry key="M10" value="11.620555383337582" />
+      <entry key="M15" value="13.862804440568407" />
+      <entry key="M30" value="24.800613027198935" />
+      <entry key="H1" value="62.087680483039996" />
+      <entry key="H2" value="136.59786150708933" />
+      <entry key="H4" value="221.22732197773925" />
+      <entry key="D1" value="343.851195454913" />
+      <entry key="W1" value="372.0482856889913" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.3833191389178234E-250" />
-      <entry key="MS500" value="1.3438803950143384E-50" />
-      <entry key="S2" value="3.4047886189845555E-13" />
-      <entry key="S5" value="1.0300013655148872E-5" />
-      <entry key="S10" value="0.003217764006890191" />
-      <entry key="S30" value="0.18483002504424154" />
-      <entry key="S60" value="0.751501568239489" />
-      <entry key="M2" value="2.0983217069595383" />
-      <entry key="M5" value="6.07671097968537" />
-      <entry key="M10" value="11.439164768215283" />
-      <entry key="M15" value="15.64355027690195" />
-      <entry key="M30" value="27.00524752442382" />
-      <entry key="H1" value="45.47840967473243" />
-      <entry key="H2" value="65.85216552425852" />
-      <entry key="H4" value="81.84028213365825" />
-      <entry key="D1" value="99.77379339912638" />
-      <entry key="W1" value="103.38156067697255" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000006" />
+      <entry key="S2" value="1.0002858139750144" />
+      <entry key="S5" value="1.0518397714799088" />
+      <entry key="S10" value="1.3942001081024793" />
+      <entry key="S30" value="3.2656403560817338" />
+      <entry key="S60" value="5.672361303881764" />
+      <entry key="M2" value="9.55045682489912" />
+      <entry key="M5" value="15.948271369212582" />
+      <entry key="M10" value="20.458051192461408" />
+      <entry key="M15" value="23.51401468826893" />
+      <entry key="M30" value="32.600199084249255" />
+      <entry key="H1" value="51.43565116375965" />
+      <entry key="H2" value="79.00257352976199" />
+      <entry key="H4" value="105.52802902056146" />
+      <entry key="D1" value="140.12902274092218" />
+      <entry key="W1" value="147.68516605380844" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9330329920717118" />
-      <entry key="MS500" value="1.0002174712266088" />
-      <entry key="S2" value="1.3404257173629948" />
-      <entry key="S5" value="1.6511005192881936" />
-      <entry key="S10" value="1.8104016487402503" />
-      <entry key="S30" value="2.2446546885793004" />
-      <entry key="S60" value="3.589392154372235" />
-      <entry key="M2" value="7.261681091820108" />
-      <entry key="M5" value="18.74113705313571" />
-      <entry key="M10" value="32.854046450987724" />
-      <entry key="M15" value="43.71443997938605" />
-      <entry key="M30" value="77.71391432149103" />
-      <entry key="H1" value="148.90395964047775" />
-      <entry key="H2" value="242.43041472939964" />
-      <entry key="H4" value="323.20343824740604" />
-      <entry key="D1" value="419.5495268156185" />
-      <entry key="W1" value="439.5520975009638" />
+      <entry key="MS100" value="1.3170890159654363E-9" />
+      <entry key="MS500" value="0.016749632738675663" />
+      <entry key="S2" value="0.4021351840052743" />
+      <entry key="S5" value="0.9939168869000522" />
+      <entry key="S10" value="1.7662924559876791" />
+      <entry key="S30" value="4.370477601168527" />
+      <entry key="S60" value="7.708301859837621" />
+      <entry key="M2" value="13.885357246656712" />
+      <entry key="M5" value="24.59703398599307" />
+      <entry key="M10" value="32.023659994278304" />
+      <entry key="M15" value="37.33400705276947" />
+      <entry key="M30" value="57.36836814975902" />
+      <entry key="H1" value="113.49281704831746" />
+      <entry key="H2" value="215.5736772790475" />
+      <entry key="H4" value="326.7362765369565" />
+      <entry key="D1" value="483.97578800374947" />
+      <entry key="W1" value="519.7327797031932" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -95,6 +95,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "JUnit.OnSiteWorkerTest.calculateSalaryWithGasReturnsExpected.executor": "Run",
+    "JUnit.OnSiteWorkerTest.calculateSalaryWithZeroGasEqualsBaseFormula.executor": "Run",
+    "JUnit.OnSiteWorkerTest.executor": "Run",
+    "JUnit.OnSiteWorkerTest.getGasReturnsValueSetBySetGas.executor": "Run",
     "JUnit.WorkerTest.calculateSalaryForCeroHoursWorkedReturnsCero.executor": "Run",
     "JUnit.WorkerTest.calculateWorkerSalaryReturnsSalary.executor": "Run",
     "JUnit.WorkerTest.executor": "Run",
@@ -123,9 +127,8 @@
       <recent name="Level1_BasicAnnotations.Override" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.WorkerTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.Main" />
+  <component name="RunManager" selected="JUnit.OnSiteWorkerTest">
+    <configuration name="OnSiteWorkerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Annotations" />
       <extension name="coverage">
         <pattern>
@@ -133,6 +136,57 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
+      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.OnSiteWorkerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnSiteWorkerTest.calculateSalaryWithGasReturnsExpected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1_BasicAnnotations.Override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
+      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.OnSiteWorkerTest" />
+      <option name="METHOD_NAME" value="calculateSalaryWithGasReturnsExpected" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnSiteWorkerTest.calculateSalaryWithZeroGasEqualsBaseFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1_BasicAnnotations.Override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
+      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.OnSiteWorkerTest" />
+      <option name="METHOD_NAME" value="calculateSalaryWithZeroGasEqualsBaseFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnSiteWorkerTest.getGasReturnsValueSetBySetGas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Annotations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1_BasicAnnotations.Override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
+      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.OnSiteWorkerTest" />
+      <option name="METHOD_NAME" value="getGasReturnsValueSetBySetGas" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,44 +206,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkerTest.calculateSalaryForCeroHoursWorkedReturnsCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Annotations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level1_BasicAnnotations.Override.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
-      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.WorkerTest" />
-      <option name="METHOD_NAME" value="calculateSalaryForCeroHoursWorkedReturnsCero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WorkerTest.calculateWorkerSalaryReturnsSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Annotations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Level1_BasicAnnotations.Override.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Level1_BasicAnnotations.Override" />
-      <option name="MAIN_CLASS_NAME" value="Level1_BasicAnnotations.Override.WorkerTest" />
-      <option name="METHOD_NAME" value="calculateWorkerSalaryReturnsSalary" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OnSiteWorkerTest" />
+        <item itemvalue="JUnit.OnSiteWorkerTest.getGasReturnsValueSetBySetGas" />
+        <item itemvalue="JUnit.OnSiteWorkerTest.calculateSalaryWithZeroGasEqualsBaseFormula" />
+        <item itemvalue="JUnit.OnSiteWorkerTest.calculateSalaryWithGasReturnsExpected" />
         <item itemvalue="JUnit.WorkerTest" />
-        <item itemvalue="JUnit.WorkerTest.calculateSalaryForCeroHoursWorkedReturnsCero" />
-        <item itemvalue="JUnit.WorkerTest.calculateWorkerSalaryReturnsSalary" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
