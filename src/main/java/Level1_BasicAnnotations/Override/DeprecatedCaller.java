@@ -4,10 +4,10 @@ public class DeprecatedCaller {
 
     @SuppressWarnings("deprecation")
     public void callDeprecatedMethods() {
-        OnSiteWorker onSite = new OnSiteWorker("Arturo", "Gonzales", 19.5);
+        OnSiteWorker onSite = new OnSiteWorker("Alejandro", "Diaz", 19.5);
         double oldSalary = onSite.calculateSalaryOld(40);
 
-        OnlineWorker online = new OnlineWorker("Angela", "Valencia", 18.50);
+        OnlineWorker online = new OnlineWorker("Iciar", "Algorri", 18.50);
         double obsoleteSalary = online.calculateSalaryObsolete(40);
 
         System.out.println(onSite.getName() + " " + onSite.getSurname() + " old salary: " + oldSalary);

@@ -14,5 +14,10 @@ public class Main {
         for (Worker w : workers) {
             System.out.println("The salary of " + w.getName() + " " + w.getSurname() + " → " + w.calculateSalary(40) + "€");
         }
+
+        System.out.println("\n--- Demo @Deprecated ---");
+        DeprecatedCaller caller = new DeprecatedCaller();
+        caller.callDeprecatedMethods();
     }
+
 }
