@@ -20,4 +20,10 @@ public class OnSiteWorker extends Worker {
     public double calculateSalary(double workedHours) {
         return super.calculateSalary(workedHours) + gas;
     }
+
+    @Deprecated
+    public double calculateSalaryOld(double workedHours) {
+        return super.calculateSalary(workedHours);
+    }
+
 }
