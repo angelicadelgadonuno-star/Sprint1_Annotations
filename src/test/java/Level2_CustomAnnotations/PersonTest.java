@@ -16,4 +16,16 @@ class PersonTest {
         assertNotNull(annotation);
         assertEquals("output/", annotation.directory());
     }
+
+    @Test
+    void serializerCreatesJsonFileSuccessfully() throws Exception {
+        Person person = new Person("TestName", 30);
+        java.io.File expectedFile = new java.io.File("output/Person.json");
+        if (expectedFile.exists()) {
+            expectedFile.delete();
+        }
+        Serializer.serialize(person);
+        assertTrue(expectedFile.exists(), "The Json file should have been created");
+        expectedFile.delete();
+    }
 }
